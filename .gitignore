@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+__pycache__/
+
+# Environment variables (API keys)
+.env
+
+# Personal understanding file
+UnderstandingProjectConcepts.txt
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
