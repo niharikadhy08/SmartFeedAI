@@ -1,6 +1,9 @@
-📱 SmartFeed AI
+📱 SmartFeed AI – Personalized Social Media Feed with Explainable AI
+
 SmartFeed AI is an AI-powered personalized content feed inspired by social media platforms like Instagram and TikTok.
 It learns your interests over time based on your actions (like, skip, save) and dynamically reorders the feed to show content you’re more likely to enjoy — while still keeping things fresh and diverse.
+
+🔗 Live Demo 👉 https://smartfeedai-aupjkcxwkrcdbu6jr4pefg.streamlit.app/
 
 🚀 Features
 🧠 Personalized Feed Ranking
