@@ -7,23 +7,21 @@ It learns your interests over time based on your actions (like, skip, save) and 
 👉 https://smartfeedai-aupjkcxwkrcdbu6jr4pefg.streamlit.app/
 
 📸 Application Preview
-Application View
 ![Application View](screenshots/application%20view.png)
-Back to Feed
-![Back to Feed](screenshots/back%20to%20feed.png)
 Features
 ![Features](screenshots/features.png)
-Interest Profile
-![Interest Profile](screenshots/interest%20profile.png)
 Liked Post
 ![Liked Post](screenshots/liked%20post.png)
-Saved Post
-![Saved](screenshots/saved.png)
+Interest Profile
+![Interest Profile](screenshots/interest%20profile.png)
 Search by name
 ![Search](screenshots/search.png)
 Filtering by Tags
 ![Tags](screenshots/tags.png)
-
+Saved Post
+![Saved](screenshots/saved.png)
+Back to Feed
+![Back to Feed](screenshots/back%20to%20feed.png)
 
 🚀 Key Features:
 🧠 Personalized Feed Ranking :
