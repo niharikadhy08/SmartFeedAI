@@ -267,7 +267,7 @@ if "just_interacted" not in st.session_state:
     st.session_state.just_interacted = False
 
 
-effective_explore_ratio = 0.0 if st.session_state.just_interacted else explore_ratio
+effective_explore_ratio = explore_ratio
 
 ranked_posts = rank_posts(
     POSTS,
@@ -277,7 +277,6 @@ ranked_posts = rank_posts(
     recent_tags=st.session_state.recent_tags
 )
 
-st.session_state.just_interacted = False
 
 if search_query:
     ranked_posts = [
