@@ -74,8 +74,9 @@ def rank_posts(posts, user_interests, explore_ratio=0.2,
 
         final_score = (
             (1 - explore_ratio) * personalized_score
-            + explore_ratio * (novelty + exploration_noise)
+            + explore_ratio * 3 * (novelty + exploration_noise)
         )
+
 
         diversity = diversity_penalty(post.get("tags", []), recent_tags or [])
         final_score += diversity
